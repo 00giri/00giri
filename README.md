@@ -1,16 +1,15 @@
-### Hi there 👋
+<!-- settings -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=00giri&repo=github-readme-stats&theme=algolia)](https://github.com/00giri/github-readme-stats)
 
+<!-- profile -->
 <!--
-**00giri/00giri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# About Me  
+# 私について  
 -->
+# My Stats / 統計情報  
+<p align="left"> 
+  <a href="https://github.com/00giri/github-readme-stats"> <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=00giri&count_private=true&show_icons=true&theme=algolia"> </a>
+  <a href="https://github.com/00giri/github-readme-stats"> <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00giri&layout=compact&theme=algolia&langs_count=6&hide=Ruby"> </a>
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=00giri&theme=darkhub&column=-1)](https://github.com/00giri/github-profile-trophy)
