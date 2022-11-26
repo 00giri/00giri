@@ -1,6 +1,3 @@
-<!-- settings -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=00giri&repo=github-readme-stats&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- profile -->
 <!--
 # About Me  
