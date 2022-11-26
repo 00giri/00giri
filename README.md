@@ -1,8 +1,11 @@
-<!-- profile -->
 <!--
 # About Me  
 # 私について  
 -->
+<p align="left">
+  <a href="https://github.com/00giri/"> <img src="https://komarev.com/ghpvc/?username=00giri" alt="00giri"> </a>
+</p>
+
 # My Stats / 統計情報  
 <p align="left"> 
   <a href="https://github.com/anuraghazra/github-readme-stats"> <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=00giri&count_private=true&show_icons=true&theme=algolia"> </a>
