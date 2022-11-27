@@ -1,14 +1,16 @@
 <p align="left">
   <a href="https://github.com/00giri/"> <img src="https://komarev.com/ghpvc/?username=00giri" alt="00giri"> </a>
 </p>
-<!--
+
 # About Me    
--->
+:jp: Located in Japan  
+:man_student: Tech student  
+:computer: Love programming  
 
 # 私について  
-- 日本人 :jp:  
-- 理系の学生 :man_student:  
-- プログラミングが趣味 :computer:  
+:jp: 日本人  
+:man_student: 理系の学生  
+:computer: 趣味はプログラミング  
 
 # Accounts / アカウント  
 **Scratch** https://scratch.mit.edu/users/00giri/  
